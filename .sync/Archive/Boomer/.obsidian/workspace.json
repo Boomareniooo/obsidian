@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "96bef5ae639a8f9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2a71c61a7bf69f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49035c56c48669ed",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3ddd3c30bffa9738",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7d17a35fd3c4a27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acf53729f4b8c205",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "904014f06ae79a96",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6ec57ff395cb5607",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3d6c245a8c3c3100",
+    "type": "split",
+    "children": [
+      {
+        "id": "9343beb946865b5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4046935df273eaf3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "cad3987a7b03d411",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "c1a7efb65d98dbc9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4011f952030cdd63",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "acf53729f4b8c205",
+  "lastOpenFiles": [
+    "Untitled",
+    "1_Introduction_to_LLMs.md",
+    "3_Types_and_Capabilities_of_LLMs.md",
+    "2_Ethical_Considerations_and_Challenges.md",
+    "LLM Hallucinations.md",
+    "LLM Learning Roadmap _.md",
+    "Content Creation.md",
+    "4_Applications_of_LLMs.md",
+    "Fine-tuning LLMs.md",
+    "Untitled.md",
+    "5_Building_AI_Applications_with_LLMs.md",
+    "Welcome.md",
+    "Papers",
+    "New folder"
+  ]
+}

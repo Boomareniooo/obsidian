@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "96bef5ae639a8f9d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2a71c61a7bf69f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49035c56c48669ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PDFExplain - 22 Apr 2025 05_32.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PDFExplain - 22 Apr 2025 05_32"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3ddd3c30bffa9738",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7d17a35fd3c4a27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acf53729f4b8c205",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "904014f06ae79a96",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6ec57ff395cb5607",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3d6c245a8c3c3100",
+    "type": "split",
+    "children": [
+      {
+        "id": "9343beb946865b5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4046935df273eaf3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "cad3987a7b03d411",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PDFExplain - 22 Apr 2025 05_32.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from PDFExplain - 22 Apr 2025 05_32"
+            }
+          },
+          {
+            "id": "c1a7efb65d98dbc9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4011f952030cdd63",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "49035c56c48669ed",
+  "lastOpenFiles": [
+    "PDFExplain - 22 Apr 2025 05_32.md",
+    "Ventricular Septal Defect.md",
+    "PDFExplain - 22 Apr 2025 03_46.md",
+    "ASD - 22 Apr 2025 03_26.md",
+    "ASD - 22 Apr 2025 03_18.md",
+    "ASD Size Classification.md",
+    "ASD - 22 Apr 2025 03_14.md",
+    "Boomer/1_Introduction_to_LLMs.md",
+    "Boomer/5_Building_AI_Applications_with_LLMs.md",
+    "L1- Down Syndrome_bullets.md",
+    "Boomer/LLM Learning Roadmap _.md",
+    "Boomer/3_Types_and_Capabilities_of_LLMs.md",
+    "Boomer/2_Ethical_Considerations_and_Challenges.md",
+    "Boomer/4_Applications_of_LLMs.md",
+    "L2- IEM_bullets.md",
+    "R1 (P1)- General Examination_bullets.md",
+    "R1 (P1)- General Examination_bullets (1).md",
+    "Pediatrics/W1",
+    "Boomer/Untitled",
+    "Boomer/Papers",
+    "Boomer/LLM Hallucinations.md",
+    "Boomer/Fine-tuning LLMs.md",
+    "Boomer/Content Creation.md",
+    "untitled folder",
+    "Pediatrics",
+    "Boomer",
+    "Untitled",
+    "1_Introduction_to_LLMs.md",
+    "3_Types_and_Capabilities_of_LLMs.md",
+    "2_Ethical_Considerations_and_Challenges.md",
+    "LLM Hallucinations.md",
+    "LLM Learning Roadmap _.md",
+    "Content Creation.md",
+    "Papers",
+    "New folder"
+  ]
+}
